@@ -38,7 +38,7 @@ I'm KerwinChina. full stack developer,  from China .
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=KerwinChina&show_icons=true&count_private=true" alt="KerwinChina" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=KerwinChina.KerwinChina" alt="visitors"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerwinChina&layout=compact"/>
 
 
 
