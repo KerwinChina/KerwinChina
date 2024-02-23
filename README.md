@@ -39,6 +39,7 @@ I'm KerwinChina. full stack developer,  from China .
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=KerwinChina&show_icons=true&count_private=true" alt="KerwinChina" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerwinChina&layout=compact"/>
+<img src="https://repobeats.axiom.co/api/embed/6aeee92ac23a231f657fffda91ddbf5c47c90b9f.svg" width="850" height="550" />
 
 
 
