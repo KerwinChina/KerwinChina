@@ -4,9 +4,23 @@
   <samp>
 I'm KerwinChina. full stack developer,  from China .
   </samp>
-  <br/>
-  <br/>
  
+  <br/>
+  
+🚀 Core Expertise: <br/>
+
+✅ Mastery in RESTful APIs and GraphQL endpoints. <br/>
+✅ Profound knowledge of asynchronous programming, including promises and ES6+ features. <br/>
+✅ Hands-on experience with MongoDB, PostgreSQL, and MySQL. <br/>
+✅ Expertise in stable diffusion techniques for efficient data propagation. <br/>
+✅ Skilled in Stripe development for seamless payment integrations. <br/>
+ <br/>
+🔥 Strengths: <br/>
+ <br/>
+✅ Building scalable, high-performance applications. <br/>
+✅ Adherence to CI/CD, TDD, and Agile methodologies. <br/>
+✅ Exceptional problem-solving with a focus on optimization. <br/>
+✅ Stellar communication skills for effective team collaboration. <br/>
 </p>
 
 <h2>🚀 Some Tools I Use</h2>
